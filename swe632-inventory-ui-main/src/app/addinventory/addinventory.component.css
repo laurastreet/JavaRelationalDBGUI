@@ -1,0 +1,9 @@
+.addinventory-container{
+  padding: 1rem;
+}
+
+.main-content {
+    margin-left: 20px; /* or however wide your sidebar + padding is */
+    padding: 20px;
+    transition: margin-left 0.3s ease-in-out;
+  }
