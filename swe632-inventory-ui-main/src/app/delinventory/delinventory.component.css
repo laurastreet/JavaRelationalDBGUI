@@ -2,8 +2,8 @@
   padding: 1rem;
 }
 
-.main-content {
-    margin-left: 240px; /* or however wide your sidebar + padding is */
-    padding: 1rem;
+.dialog-content {
+    /* margin-left: 240px; or however wide your sidebar + padding is */
+    padding: 0;
     transition: margin-left 0.3s ease-in-out;
   }
